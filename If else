@@ -1,0 +1,20 @@
+Using system
+Class abc
+{
+Public void main (string [] args)
+String a;
+Console. WriteLine(enter a value );
+String a=intprase (console. ReadLine ());
+String b;
+Console. WriteLine(enter a value );
+String b=intprase (console. ReadLine ());
+If(a==b)
+{
+Console. WriteLine(a & b are equal );
+}
+Else
+If(a!=b)
+{
+Console. WriteLine(a & b are notequal );
+}
+
