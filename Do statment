@@ -1,0 +1,7 @@
+Using system
+Class abc
+{
+Public void main (string [] args)
+String user, pwd;
+Int count;
+Console. WriteLine("to check user name and password");
