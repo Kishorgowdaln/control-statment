@@ -1,0 +1,6 @@
+Syntax
+If(test condition)
+{
+Statment block ;
+}
+Statement x;
